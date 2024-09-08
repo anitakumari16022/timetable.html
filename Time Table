@@ -1,0 +1,112 @@
+<html>
+  <head>
+    <title>Timetable</title>
+  </head>
+ <body>
+  <h1 align="center"><u>TIME TABLE</u></h1>
+  <table border="1"  cellspacing="0" cellpaddig="12" align="center">
+    <tr>
+       <th>Code</th>
+       <th>&nbsp;&nbsp;&nbsp;&nbsp;Subject Name&nbsp;&nbsp; &nbsp; &nbsp;</th>
+       <th>&nbsp;&nbsp;L&nbsp;&nbsp; T&nbsp;&nbsp;   P&nbsp;&nbsp;   J&nbsp;&nbsp;</th>
+       <th>&nbsp;&nbsp;&nbsp;Faculty&nbsp;&nbsp;&nbsp;</th>
+    </tr>
+    <tr align="center">
+       <td>&nbsp;MCAC0011&nbsp;</td>
+       <td>computer Network</td>
+       <td>&nbsp;&nbsp;3&nbsp;&nbsp; 1&nbsp;&nbsp;  0&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+       <td>&nbsp;Mr.Siddharth Singh&nbsp;</td>
+      
+    </tr>
+    <tr align="center">
+      <td>&nbsp;MCAE020&nbsp;</td>
+      <td>Machine Learning</td>
+      <td>&nbsp;&nbsp;3&nbsp;&nbsp; 0&nbsp;&nbsp; 0 &nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+      <td>&nbsp;Prof.Rohit Agarwal&nbsp;</td>
+     </tr>
+     <tr align="center">
+      <td>&nbsp;MCAE0403&nbsp;</td>
+      <td>Mobile Application Development</td>
+      <td>&nbsp;&nbsp;3&nbsp;&nbsp; 0&nbsp;&nbsp; 0 &nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+      <td>&nbsp;Ms.Deepti Gautam&nbsp;</td>
+     </tr>
+     <tr align="center">
+      <td>&nbsp;MCAE0402&nbsp;</td>
+      <td>.Net Framework Using C#</td>
+      <td>&nbsp;&nbsp;3&nbsp;&nbsp; 0&nbsp;&nbsp; 0 &nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+      <td>&nbsp;Dr.Sachendra Singh<br> Chauhan&nbsp;</td>
+     </tr>
+    <tr align="center">
+      <td>&nbsp;BCHS0201</td>
+      <td >&nbsp;Environmental studies&nbsp;</td>
+      <td>&nbsp;&nbsp;2&nbsp;&nbsp; 0&nbsp;&nbsp;  0&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;NPTEL&nbsp;&nbsp;</td>
+    </tr>
+    <tr align="center" bgcolor="#FFC300 ">
+      <td>&nbsp;MCAE0272&nbsp;</td>
+      <td>Machine Learning Lab</td>
+      <td>&nbsp;&nbsp;0&nbsp;&nbsp; 1&nbsp;&nbsp;  2&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+      <td>&nbsp;A1:Mr.Shivanshu<br> Upadhyay, A2:Ms.<br> Anushka&nbsp;</td>
+     
+   </tr>
+   <tr align="center" bgcolor="c4ff33">
+    <td>&nbsp;MCAE0471&nbsp;</td>
+    <td>.Net Framework Using C# Lab</td>
+    <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  4&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+    <td>&nbsp;A1:Dr.Sachendra Singh<br>Chauhan, A2:Dr.<br>Chander Pratap Singh&nbsp;</td>
+ </tr>
+<tr align="center" bgcolor="33f6ff">
+ <td>&nbsp;MCAE0472&nbsp;</td>
+ <td>Mobile Application Development Lab</td>
+ <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  2&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+ <td>&nbsp;Mr.Gagan Rajput&nbsp;</td>
+</tr>
+<tr align="center" bgcolor=" #ebdef0">
+  <td>&nbsp;MCAJ1951&nbsp;</td>
+  <td>Project-1</td>
+  <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  0&nbsp;&nbsp;   8&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#c39bd3">
+  <td>&nbsp;CPJH001&nbsp;</td>
+  <td>Techanical Skills0 -1</td>
+  <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  2&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+  <td>&nbsp;Mr.Udayveer Singh&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#f9ff33">
+  <td>&nbsp;MELS0001&nbsp;</td>
+  <td>Professional Communication Skills</td>
+  <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  2&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+  <td>&nbsp;A1:Dr.Abdul Kayoom,<br> A2: Dr.Pankaj Yadav&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#33a2ff">
+  <td>&nbsp;CPQH0001&nbsp;</td>
+  <td>Technical Skills-2</td>
+  <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  2&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+  <td>&nbsp;Ms.Minakashee Wanode&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#FFA07A">
+  <td>&nbsp;MTDH0303&nbsp;</td>
+  <td>Soft Skills-III</td>
+  <td>&nbsp;&nbsp;0&nbsp;&nbsp; 0&nbsp;&nbsp;  2&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#FFA07A">
+  <td>&nbsp;SQAH0001&nbsp;</td>
+  <td>Quantitative Amplitude</td>
+  <td>&nbsp;&nbsp;2&nbsp;&nbsp; 0&nbsp;&nbsp;  0&nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+  <td>&nbsp; Mr.Anant (IMS Trainer)<br>[GLA150092]&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#FFA07A">
+  <td rowspan="2">&nbsp;SVAHOO1&nbsp;</td>
+  <td>Verbal ability</td>
+  <td rowspan="2">&nbsp;&nbsp;2&nbsp;&nbsp; 0&nbsp;&nbsp; 0 &nbsp;&nbsp;   0&nbsp;&nbsp;</td>
+  <td>&nbsp; Mr.Pavan (IMS Trainer)<br> [GLA150094]&nbsp;</td>
+ </tr>
+ <tr align="center" bgcolor="#FFA07A">
+  <td rowspan="2">&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ </table>
+ </body>  
+</html>
